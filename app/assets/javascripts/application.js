@@ -13,4 +13,10 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require theme/easing
+//= require theme/jquery.min
+//= require theme/move-top
+//= require theme/easing
+//= require theme/jquery.min
+//= require theme/move-top
 //= require_tree .
