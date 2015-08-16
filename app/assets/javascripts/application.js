@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require lightbox
 //= require turbolinks
 //= require theme/easing
 //= require theme/jquery.min
